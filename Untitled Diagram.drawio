@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.2.7">
+  <diagram name="Page-1" id="2cEOTI5LPqqgsDJ_FVwX">
+    <mxGraphModel dx="999" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-1" target="_TOQFuZ6-E28BYfeeUP0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-1" value="&lt;div class=&quot;text-lg font-bold&quot;&gt;Promote Sustainability Engagement at Curtin University&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="172" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-2" value="&lt;div class=&quot;text-sm font-semibold&quot;&gt;Track and Measure Sustainable Behaviors&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-3" target="_TOQFuZ6-E28BYfeeUP0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-3" value="&lt;div class=&quot;text-sm font-semibold&quot;&gt;Increase Environmental Awareness&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-4" target="_TOQFuZ6-E28BYfeeUP0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-4" target="_TOQFuZ6-E28BYfeeUP0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-4" value="&lt;div class=&quot;text-sm font-semibold&quot;&gt;Motivate Continuous Participation&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-5" target="_TOQFuZ6-E28BYfeeUP0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-5" value="&lt;div class=&quot;text-sm font-semibold&quot;&gt;Support Data-Driven Decision Making&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-6" value="&lt;div class=&quot;text-xs&quot;&gt;Provide Daily Sustainability Tips&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="320" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-7" value="&#xa;&lt;div class=&quot;text-xs&quot;&gt;Enable Community Engagement Through Events&lt;/div&gt;&#xa;&#xa;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="390" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-8" value="&lt;div class=&quot;text-xs&quot;&gt;Log Eco-Friendly Actions&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-9" value="&lt;div class=&quot;text-xs&quot;&gt;Monitor Personal Progress&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="115" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-10" value="&lt;div class=&quot;text-xs&quot;&gt;Implement Gamification Features&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="380" width="107.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-11" value="&lt;div class=&quot;text-xs&quot;&gt;Offer Reward System&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="280" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-12" value="&lt;div class=&quot;text-xs&quot;&gt;Generate Analytics and Reports&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="380" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-14" value="&lt;div class=&quot;text-xs&quot;&gt;Track Campus-wide Impact Metrics&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="290" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-1" target="_TOQFuZ6-E28BYfeeUP0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-1" target="_TOQFuZ6-E28BYfeeUP0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-1" target="_TOQFuZ6-E28BYfeeUP0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-3" target="_TOQFuZ6-E28BYfeeUP0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-2" target="_TOQFuZ6-E28BYfeeUP0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-2" target="_TOQFuZ6-E28BYfeeUP0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-4" target="_TOQFuZ6-E28BYfeeUP0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_TOQFuZ6-E28BYfeeUP0-5" target="_TOQFuZ6-E28BYfeeUP0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TOQFuZ6-E28BYfeeUP0-33" value="&lt;div class=&quot;text-xs&quot;&gt;&lt;div class=&quot;text-xs&quot;&gt;Display Competitive Leaderboards&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="370" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
